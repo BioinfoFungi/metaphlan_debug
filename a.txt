@@ -1,0 +1,5 @@
+| marker                  | clade      | ext | len  | taxon                                                                                                                                  |
+| ----------------------- | ---------- | --- | ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| SGB1543__OFGJFGGB_00388 | t__SGB1543 | []  | 3174 | k__Bacteria\|p__Bacteroidetes\|c__Bacteroidia\|o__Bacteroidales\|f__Prevotellaceae\|g__Prevotella\|s__Prevotella_histicola\|t__SGB1543 |
+| SGB1543__JCHLCMHF_00138 | t__SGB1543 | []  | 2970 | k__Bacteria\|p__Bacteroidetes\|c__Bacteroidia\|o__Bacteroidales\|f__Prevotellaceae\|g__Prevotella\|s__Prevotella_histicola\|t__SGB1543 |
+| SGB1543__CDNDMBFI_01014 | t__SGB1543 | []  | 2736 | k__Bacteria\|p__Bacteroidetes\|c__Bacteroidia\|o__Bacteroidales\|f__Prevotellaceae\|g__Prevotella\|s__Prevotella_histicola\|t__SGB1543 |

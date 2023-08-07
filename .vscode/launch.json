@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            
+            "python": "/ssd1/wy/.conda/envs/metaphlan/bin/python",
+            "name": "Python: Module",
+            "type": "python",
+            "request": "launch",
+            "module": "metaphlan.metaphlan",
+            "args": ["--bowtie2db","/ssd1/wy/workspace/MetaPhlAn/test_data/databases","--index","mpa_vJan21_TOY_CHOCOPhlAnSGB_202103","/ssd1/wy/workspace/MetaPhlAn/test_data/01.fasta","--input_type","fasta"],
+            "justMyCode": true,
+            
+        }
+    ]
+}
